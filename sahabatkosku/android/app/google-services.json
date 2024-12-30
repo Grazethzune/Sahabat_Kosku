@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60035450934",
+    "project_id": "sahabatkosku",
+    "storage_bucket": "sahabatkosku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60035450934:android:1f21585583286e24ba3097",
+        "android_client_info": {
+          "package_name": "com.example.sahabatkosku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCos567RomT-rVZp1MtWxXcDPv24p1IIbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
